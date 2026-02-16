@@ -14,9 +14,6 @@ It was cleaned, modeled, and transformed in Power BI for analytical use.
 - 📦 **Full dataset (too large for GitHub):**  
   Download here → https://drive.google.com/file/d/101i-LRUYDFLNKHYwMygIVC-GZB52zu3J/view?usp=sharing
 
-> Note: The Power BI (.pbix) file already contains the imported data, so downloading the raw dataset is optional for viewing the dashboard.
-
-
 ## 🎯 Objectives
 - Build a clean data model to support interactive analysis  
 - Track overall sales, units sold, and seller count  
