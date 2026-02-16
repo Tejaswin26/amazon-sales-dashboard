@@ -4,9 +4,18 @@
 An interactive Power BI dashboard built to analyze Amazon sales performance across locations, products, and order statuses.  
 The dashboard enables stakeholders to monitor KPIs, identify high-performing regions, and explore product-level trends to support data-driven decisions.
 
-## 📁 Dataset
+## 📂 Dataset
+
 The dataset contains sales transactions, product information, delivery status, and sales options.  
 It was cleaned, modeled, and transformed in Power BI for analytical use.
+
+- ✅ **Sample dataset (included in this repo):**  
+
+- 📦 **Full dataset (too large for GitHub):**  
+  Download here → https://drive.google.com/file/d/101i-LRUYDFLNKHYwMygIVC-GZB52zu3J/view?usp=sharing
+
+> Note: The Power BI (.pbix) file already contains the imported data, so downloading the raw dataset is optional for viewing the dashboard.
+
 
 ## 🎯 Objectives
 - Build a clean data model to support interactive analysis  
